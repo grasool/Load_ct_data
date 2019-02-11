@@ -1,6 +1,6 @@
 # Reproducing Errors Loading DICOMS
 
-Minimimum working code to load CT data as numpy arrays.
+Minimum working code to load CT data as numpy arrays.
 
 I am using (https://www.raddq.com/dicom-processing-segmentation-visualization-in-python/)
 
